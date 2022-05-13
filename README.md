@@ -8,4 +8,4 @@ Prototype nb: <a href='./sound_v1.ipynb'>./sound_v1.ipynb</a>
 <img src="./points_01.png"></img>
 
 
-<img src="./symb_sound.png" width="60%"></img>
+<img src="./symb_sound.jpg" width="60%"></img>
