@@ -9,6 +9,9 @@ Prototype nb: <a href='./sound_v1.ipynb'>./sound_v1.ipynb</a>
 
 
 
+<img src="./psmall_dots_10.png"></img>
+
+
 Symbolic binary representation (8-bits): 
 
 <img src="./symb_sound.jpg" width="70%"></img>
